@@ -132,7 +132,7 @@
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
     </a> 
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-        <img src="[https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)" alt="jenkins" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins" width="40" height="40"/> 
     </a> 
 </p>
 
