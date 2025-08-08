@@ -8,7 +8,7 @@
 <summary>🎓 About Me</summary>
 
 - 🎓 Full Stack Developper &  Master's in software engineering at Sorbonne university 
-- 🚀 Interested in Software engineering, Data Science & AI
+- 🚀 Interested in Software engineering & Software Architecture, Data Science & AI
 - 🌍 Passionate about learning
 - 📧 Contact: salimtabellout.pro@gmail.com
 
