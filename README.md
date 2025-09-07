@@ -7,9 +7,11 @@
 <details>
 <summary>🎓 About Me</summary>
 
-- 🎓 Full Stack Developper &  Master's in software engineering at Sorbonne university 
-- 🚀 Interested in Software engineering & Software Architecture, Data Science & AI
+- 🏢 Founder Of SytConsulting & GreenArden
+- 🚀 Software Engineer & Software Architecture, interested in Data Science & AI.
 - 🌍 Passionate about learning
+- 🎓 Master's in Software Engineering, Sorbonne University
+- 📍 🇬🇧🇩🇿🇫🇷🇦🇪🇶🇦
 - 📧 Contact: salimtabellout.pro@gmail.com
 
 
