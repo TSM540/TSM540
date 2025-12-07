@@ -10,7 +10,7 @@
 - 🏢 Founder Of SytConsulting & GreenArden
 - 🚀 Software Engineer & Software Architecture, interested in Data Science & AI.
 - 🌍 Passionate about learning
-- 🎓 Master's in Software Engineering, Sorbonne University
+- 🎓 Master's Graduate in Software Engineering, Sorbonne University
 - 📍 🇬🇧🇩🇿🇫🇷🇦🇪🇶🇦
 - 📧 Contact: salimtabellout.pro@gmail.com
 
