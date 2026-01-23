@@ -8,11 +8,10 @@
 <summary>🎓 About Me</summary>
 
 - 🏢 Founder Of SytConsulting & GreenArden
-- 🚀 Software Engineer & Software Architecture, interested in Data Science & AI.
+- 🚀 Senior Software Engineer & Architect, interested in OPS, Data Engineering & AI.
 - 🌍 Passionate about learning
 - 🎓 Master's Graduate in Software Engineering, Sorbonne University
-- 📍 🇬🇧🇩🇿🇫🇷🇦🇪🇶🇦
-- 📧 Contact: salimtabellout.pro@gmail.com
+- 📧 Contact: salim.tabellout@sytconsulting.fr
 
 
 
