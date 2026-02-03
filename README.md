@@ -230,9 +230,11 @@
 	<a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next-js" width="40" height="40"/> 
     </a>
-		<a href="https://angular.io" target="_blank" rel="noreferrer"> 
+	<!--
+	<a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
     </a>
+	-->
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react-native" width="40" height="40"/> 
     </a>
