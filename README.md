@@ -11,7 +11,7 @@
 - 🚀 Senior Software Engineer & Architect, interested in OPS, Data Engineering & AI.
 - 🌍 Passionate about learning
 - 🎓 Master's Graduate in Software Engineering, Sorbonne University
-- 📧 Contact: salim.tabellout@sytconsulting.fr
+- 📧 Contact: salim.tabellout@sytconsulting.net
 
 
 
