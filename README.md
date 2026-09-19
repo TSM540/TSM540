@@ -7,7 +7,7 @@
 <details>
 <summary>🎓 About Me</summary>
 
-- 🏢 Founder Of SytConsulting & GreenArden
+- 🏢 Founder Of SytConsulting Co-Founder of AirNext
 - 🚀 Senior Software Engineer & Architect, interested in OPS, Data Engineering & AI.
 - 🌍 Passionate about learning
 - 🎓 Master's Graduate in Software Engineering, Sorbonne University
